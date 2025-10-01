@@ -1,0 +1,15 @@
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/bin/Debug/net8.0/ProductionReady
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/bin/Debug/net8.0/ProductionReady.deps.json
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/bin/Debug/net8.0/ProductionReady.runtimeconfig.json
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/bin/Debug/net8.0/ProductionReady.dll
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/bin/Debug/net8.0/ProductionReady.pdb
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ProductionReady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ProductionReady.AssemblyInfoInputs.cache
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ProductionReady.AssemblyInfo.cs
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ProductionReady.csproj.CoreCompileInputs.cache
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ProductionReady.sourcelink.json
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ProductionReady.dll
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/refint/ProductionReady.dll
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ProductionReady.pdb
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ProductionReady.genruntimeconfig.cache
+/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/obj/Debug/net8.0/ref/ProductionReady.dll

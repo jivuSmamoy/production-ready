@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDKQrjFAQXg=",
+  "success": true,
+  "projectFilePath": "/Users/_ebakl/Desktop/super ebuchie projects/production-ready/src/ProductionReady/ProductionReady.csproj",
+  "expectedPackageFiles": [
+    "/Users/_ebakl/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/_ebakl/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/_ebakl/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.17/microsoft.netcore.app.host.osx-arm64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
